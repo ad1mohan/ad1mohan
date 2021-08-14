@@ -49,7 +49,7 @@ or <a href="mailto:talktoadimohan99@gmail.com"><b>email</b></a> me
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="http://ad1mohan.tech"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -59,4 +59,4 @@ or <a href="mailto:talktoadimohan99@gmail.com"><b>email</b></a> me
 <a href="https://www.facebook.com/ad1mohan"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://in.pinterest.com/ad1mohan"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://sketchfab.com/ad1mohan"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+</p> -->
