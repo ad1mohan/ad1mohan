@@ -40,6 +40,18 @@ or <a href="mailto:talktoadimohan99@gmail.com"><b>email</b></a> me
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+### My Badges
+
+<!--START_SECTION:badges-->
+[![EKS (Container Service for Kubernetes) Subject Matter Expert](https://images.credly.com/size/110x110/images/dcac68b7-b407-4b42-ade8-4866337459e3/image.png)](https://www.credly.com/earner/earned/badge/45919d52-0e2f-4b23-8739-2d1713149b1f "EKS (Container Service for Kubernetes) Subject Matter Expert")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://www.credly.com/badges/3b1d9f27-da6b-44b5-bc3e-0ed869efa1f1/public_url "AWS Knowledge: Amazon EKS")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/earner/earned/badge/b5bee87f-371d-4213-8fa7-307a46fb5e10 "CKA: Certified Kubernetes Administrator")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/earner/earned/badge/642496de-e9b4-40c1-9fd0-dd4b77eade96 "AWS Certified Solutions Architect – Associate")
+[![All Rounder Award](https://images.credly.com/size/110x110/images/68cb85d1-b3ac-48d7-a74e-eeed72982188/image.png)](https://www.credly.com/earner/earned/badge/842ba607-e601-4162-a1b5-54cabfab0cc8 "All Rounder Award")
+
+<!--END_SECTION:badges-->
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
