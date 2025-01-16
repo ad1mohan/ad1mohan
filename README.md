@@ -43,7 +43,7 @@ or <a href="mailto:talktoadimohan99@gmail.com"><b>email</b></a> me
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ad1mohan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ad1mohan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ad1mohan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
